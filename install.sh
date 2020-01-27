@@ -7,9 +7,9 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m  📋𝐇𝐚𝐜𝐤 𝐯𝐢𝐜𝐭𝐢𝐦 𝐜𝐨𝐩𝐲 𝐭𝐞𝐱𝐭 𝐛𝐲 𝐬𝐞𝐧𝐝𝐢𝐧𝐠 𝐥𝐢𝐧𝐤📋 \e[0m\n"
-printf " \e[1;77m coded by https://github.com/HACKGM/clipboard\e[0m \n"
-printf " \e[1;77m TELEGRAM: T.ME/HACKGM\e[0m \n"
+printf "\e[0m\e[1;92m  📋𝐇𝐚𝐜𝐤 𝐯𝐢𝐜𝐭𝐢𝐦 𝐜𝐨𝐩𝐲 𝐭𝐞𝐱𝐭 𝐛𝐲 𝐬𝐞𝐧𝐝𝐢𝐧𝐠 𝐥𝐢𝐧𝐤📋 \e[0m\n"
+printf " \e[1;92m coded by https://github.com/HACKGM/clipboard\e[0m \n"
+printf " \e[1;92m TELEGRAM: T.ME/HACKGM\e[0m \n"
 
 printf "\n"
 
