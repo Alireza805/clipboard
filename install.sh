@@ -1,19 +1,12 @@
 #!/bin/bash
-# Clipboard me v1.1
-# coded by: github.com/thelinuxchoice/clipboardme
-# If you use any part from this code, giving me the credits. Read the Lincense!
+# Clipboard V 1.0
+# coded by: github.com/HACKGM/clipboard
 
 trap 'printf "\n";stop' 2
 
 banner() {
 
 
-printf "\e[1;77m  ______ _ _       _                          _               \e[0m\n"
-printf "\e[1;77m / _____) (_)     | |                        | |              \e[0m\n"
-printf "\e[1;77m| /     | |_ ____ | | _   ___   ____  ____ _ | |\e[0m\e[1;92m ____   ____  \e[0m\n"
-printf "\e[1;77m| |     | | |  _ \| || \ / _ \ / _  |/ ___) || |\e[0m\e[1;92m|    \ / _  ) \e[0m\n"
-printf "\e[1;77m| \_____| | | | | | |_) ) |_| ( ( | | |  ( (_| |\e[0m\e[1;92m| | | ( (/ /  \e[0m\n"
-printf "\e[1;77m \______)_|_| ||_/|____/ \___/ \_||_|_|   \____|\e[0m\e[1;92m|_|_|_|\____) \e[0m\n"
 printf "\e[1;77m            |_|                                               \e[0m\n"
 
 printf " \e[1;77mv1.1 coded by github.com/thelinuxchoice/clipboardme\e[0m \n"
